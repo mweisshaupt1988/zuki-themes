@@ -41,7 +41,7 @@ stage { font-size: 11pt; color: #fff; }
 .modal-dialog .modal-dialog-linked-button:first-child:last-child, .hotplug-notification-item:first-child:last-child, .notification-banner .notification-button:first-child:last-child { border-radius: 0 0 6px 6px; }
 
 /* WIDGETS */
-.shell-link { color: #4a90d9; }
+.shell-link { color: #1abc9c; }
 
 .shell-link:hover { color: #74aae2; }
 
@@ -355,7 +355,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .message .message-body { color: #e6e6e6; }
 
-.url-highlighter { link-color: #4a90d9; }
+.url-highlighter { link-color: #1abc9c; }
 
 /* Media Controls */
 .message-media-control { padding: 12px 24px; color: #d9d9d9; }
@@ -636,7 +636,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 #appMenu .label-shadow { color: transparent; }
 
 /* Activities Ripple */
-.ripple-box { background-color: rgba(158, 196, 235, 0.3); box-shadow: 0 0 2px 2px #4a90d9; width: 52px; height: 52px; border-radius: 0 0 52px 0; }
+.ripple-box { background-color: rgba(158, 196, 235, 0.3); box-shadow: 0 0 2px 2px #1abc9c; width: 52px; height: 52px; border-radius: 0 0 52px 0; }
 
 .ripple-box:rtl { border-radius: 0 0 0 52px; }
 
@@ -790,7 +790,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .workspace-thumbnail-indicator { border: 3px solid #215d9c; border-radius: 3px; padding: 0px; }
 
-.ripple-pointer-location { width: 50px; height: 50px; border-radius: 25px; background-color: rgba(116, 170, 226, 0.3); box-shadow: 0 0 2px 2px #4a90d9; }
+.ripple-pointer-location { width: 50px; height: 50px; border-radius: 25px; background-color: rgba(116, 170, 226, 0.3); box-shadow: 0 0 2px 2px #1abc9c; }
 
 .pie-timer { width: 60px; height: 60px; -pie-border-width: 3px; -pie-border-color: #215d9c; -pie-background-color: rgba(158, 196, 235, 0.3); }
 
@@ -901,7 +901,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .lg-dialog StEntry { background-color: rgba(58, 65, 68, 0.6); color: #eeeeec; border-color: rgba(238, 238, 236, 0.2); min-height: 22px; selection-background-color: #215d9c; selected-color: #ffffff; }
 
-.lg-dialog .shell-link { color: #4a90d9; }
+.lg-dialog .shell-link { color: #1abc9c; }
 
 .lg-dialog .shell-link:hover { color: #74aae2; }
 
